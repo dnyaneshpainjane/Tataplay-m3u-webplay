@@ -39,7 +39,7 @@ https://www.apachefriends.org/index.html
 
 Once you generate the m3u URL, you don't need to do it every 24 hours. It will automatically refresh on every first request of the day.
 ## Inspiration
-https://github.com/ForceGT/Tata-Sky-IPTV
+https://github.com/ForceGT/Tata-Sky-IPTV <br>
 https://github.com/saifshaikh1805/tata-sky-m3u
 
 <h2>🚸 Warnings :</h2>
