@@ -6,7 +6,8 @@ A php web app to play channels using an m3u playlist for the channels subscribed
 1) Follow the repository ( https://github.com/saifshaikh1805/tata-sky-m3u )<br>
 2) create your own playlist m3u <br>
 3) Download the code (https://github.com/dnyaneshpainjane/Tataplay-m3u-webplay/archive/refs/heads/main.zip)<br>
-#### ♢ For Mobiles / TV :
+<br>
+♢ For Mobiles / TV :
 
 
 • Download KSWEB PRO From Here :
