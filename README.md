@@ -37,6 +37,11 @@ https://www.apachefriends.org/index.html
 • channels will be loaded automatically<br>
 • Go Back To Home and Enjoy !
 
+Screenshot:<br>
+![image](https://user-images.githubusercontent.com/81969659/226100172-95f2986c-8183-4478-ac13-b42e1ccae593.png)
+![image](https://user-images.githubusercontent.com/81969659/226100195-f4c0e026-0aa6-47b6-a588-a40f6753e47d.png)
+
+
 Once you generate the m3u URL, you don't need to do it every 24 hours. It will automatically refresh on every first request of the day.
 ## Inspiration
 https://github.com/ForceGT/Tata-Sky-IPTV <br>
