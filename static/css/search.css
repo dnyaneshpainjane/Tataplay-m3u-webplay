@@ -1,0 +1,42 @@
+.container {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.container #search{
+    width: 60%;
+    height: 40px;
+    border-radius: 16px;
+    border: 1px solid #eaeaea;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-family: fantasy;
+}
+
+.container #search:focus{
+    width: 60%;
+    height: 40px;
+    padding-left: 1rem;
+    outline:  1.8px solid orangered;
+    border: 1.6px solid transparent;
+}
+
+@media only screen and (max-width: 766px) {
+  
+.container #search{
+    width: 45%;
+    height: 35px;
+    border-radius: 16px;
+    border: 1px solid #eaeaea;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-family: fantasy;
+}
+.container #search:focus{
+    width: 100%;
+    height: 50px;
+    padding-left: 1rem;
+    outline:  1.8px solid orangered;
+    border: 1.6px solid transparent;
+}
+}
